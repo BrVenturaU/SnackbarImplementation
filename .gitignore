@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 2fcaa26b41a67fa3f94d04d5fa1f3714ac8b8528
 # Built application files
 *.apk
 *.aar
@@ -84,6 +87,7 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+<<<<<<< HEAD
 =======
 *.iml
 .gradle
@@ -100,3 +104,5 @@ lint/tmp/
 .externalNativeBuild
 .cxx
 >>>>>>> 015c5a6... Workspace del proyecto
+=======
+>>>>>>> 2fcaa26b41a67fa3f94d04d5fa1f3714ac8b8528
